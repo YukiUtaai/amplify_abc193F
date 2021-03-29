@@ -6,7 +6,9 @@ ABC193Fをアニーリングマシンで解いてみました。
 
 ## 実行方法
 
-1. プログラムの`client.token`のコメントアウトを外してアクセストークンを入力する
+1. プログラムと同じ階層にAmplifyのアクセストークンを記載した`tokenfile.txt`を作成する。
+
+（もしくは直接'client.token'に直接アクセストークンを入力する）
 
 2. テストケースをダウンロードする。
 https://www.dropbox.com/sh/nx3tnilzqz7df8a/AACpUzqOotp665-GQMdAbHJua/ABC193/F?dl=0&subfolder_nav_tracking=1

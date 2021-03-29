@@ -24,7 +24,12 @@ for file in files:
         ans = int(f.readline())
 ```        
         
-. プログラムをを実行する
+4. プログラムをを実行する
+
+？が存在しないものや、n=1のものはpassしています。
+
+おおよそ最適解が得られています。
+
 ```shell
 02_sample.txt Amplify結果= 4 正解= 4
 03_sample.txt Amplify結果= 40 正解= 40

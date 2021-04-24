@@ -78,6 +78,11 @@ for file in files:
 
 こうすることで、隣接しているスピンと同じ向きの場合はエネルギーが+1となり、異なる向きの場合はエネルギーが-1となります。
 
+## 使用したアニーリングマシン
+
+Fixstars Amplify AE
+
+https://amplify.fixstars.com/
 
 ## 使用した問題
 
